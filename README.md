@@ -4,8 +4,9 @@
 
 ## **Prototyp**
 
-## Unfortunately you cant play the game anymore, because it was run on the university-servers which are shutdown.
-**[Play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
+### Unfortunately you cant play the game anymore. 
+It ran on the university-servers which are shutdown.
+//**[Cant play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
 
 **All sprites can be seen [here](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
 **Alle Sprites können [hier](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
