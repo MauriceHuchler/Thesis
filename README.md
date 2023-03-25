@@ -14,7 +14,7 @@ It ran on the university-servers which are shutdown.
 ## **Assets**
 
 
-**Watch sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)** - creator of the sprites are named.
+**Watch sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)** - creator is named at the bottom of the sprite.
 
 
 **Watcg gameplay [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4).**
