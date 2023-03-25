@@ -7,14 +7,15 @@
 ### Unfortunately you cant play the game anymore. 
 It ran on the university-servers which are shutdown.
 
-But you can watch a little gameplay-video [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4).
-
-
----
 **[Cant play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
+---
 
-**All sprites can be seen [here](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
-**Alle Sprites können [hier](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
+
+**Sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
+
+** Gameplay [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4).**
+
+
 
 ## **Controls**
 
