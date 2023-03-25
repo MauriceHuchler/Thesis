@@ -4,17 +4,19 @@
 
 ## **Prototyp**
 
+## Unfortunately you cant play the game anymore, because it was run on the university-servers which are shutdown.
 **[Play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
 
+**All sprites can be seen [here](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
 **Alle Sprites können [hier](https://tobias-bodmer.github.io/Thesis/sprites.html)  angeschaut werden!** 
 
 ## **Controls**
 
-WASD  - Laufen
+WASD  - Laufen / walk
 
 Space - Ability 
 
-E - Türen öffnen
+E - Türen öffnen / open door
 
 Escape - Pause
 
