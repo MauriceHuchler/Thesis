@@ -10,7 +10,6 @@ It ran on the university-servers which are shutdown.
 **[Cant play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
 
 ## **Assets**
----
 
 
 **Sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)** 
