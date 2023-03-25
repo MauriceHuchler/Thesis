@@ -14,6 +14,8 @@ It ran on the university-servers which are shutdown.
 
 **Sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)** 
 
+Creator of the Sprites are linked.
+
 **Gameplay [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4).**
 
 
