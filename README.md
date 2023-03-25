@@ -9,6 +9,8 @@ It ran on the university-servers which are shutdown.
 
 **[Cant play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
 
+**But you can watch the asstes from the game**
+
 ## **Assets**
 
 
