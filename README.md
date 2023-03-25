@@ -5,8 +5,7 @@
 ## **Prototyp**
 
 ### Unfortunately you cant play the game anymore. 
-### It ran on the university-servers which are shutdown.
-
+It ran on the university-servers which are shutdown.
 you can watch a little video from the gameplay [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4)
 
 **[Cant play now!](https://tobias-bodmer.github.io/Thesis/index.html)**
