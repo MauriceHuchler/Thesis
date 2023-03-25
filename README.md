@@ -14,10 +14,10 @@ It ran on the university-servers which are shutdown.
 ## **Assets**
 
 
-**Sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)** - creator of the sprites are named.
+**Watch sprites [here](https://tobias-bodmer.github.io/Thesis/sprites.html)** - creator of the sprites are named.
 
 
-**Gameplay [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4).**
+**Watcg gameplay [here](https://mauricehuchler.github.io/Thesis/thesis_show.mp4).**
 
 
 
